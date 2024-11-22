@@ -4,12 +4,12 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in both fr
 
 ## 🛠️ Technologies & Tools
 
-### Front-End Development
+### Front-End 
 - **React**
 - **Vue**
 - **Flutter**
 
-### Back-End Development
+### Back-End
 - **Go**
 - **SQL**
 
