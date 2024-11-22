@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in both fr
 ### Back-End
 - **Go**
 - **SQL**
-- *MongoDB**
+- **MongoDB**
 
 ### Mobile Development
 - **React Native**
