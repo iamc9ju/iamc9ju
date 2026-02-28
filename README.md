@@ -23,19 +23,31 @@ Software Engineer (Fullstack)
 
 ## เทคโนโลยีที่ใช้งานเป็นหลัก
 
-<div align="left">
+### Backend
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="42" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" height="42" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="42" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42" />
+<p>
+  <img src="https://cdn.simpleicons.org/go" height="40" />
+  <img src="https://cdn.simpleicons.org/nestjs" height="40" />
+  <img src="https://cdn.simpleicons.org/spring" height="40" />
+  <img src="https://cdn.simpleicons.org/java" height="40" />
+</p>
 
-</div>
+### Frontend
+
+<p>
+  <img src="https://cdn.simpleicons.org/typescript" height="40" />
+  <img src="https://cdn.simpleicons.org/javascript" height="40" />
+  <img src="https://cdn.simpleicons.org/react" height="40" />
+  <img src="https://cdn.simpleicons.org/nextdotjs" height="40" />
+</p>
+
+### Database & Infrastructure
+
+<p>
+  <img src="https://cdn.simpleicons.org/postgresql" height="40" />
+  <img src="https://cdn.simpleicons.org/docker" height="40" />
+  <img src="https://cdn.simpleicons.org/linux" height="40" />
+</p>
 
 ---
 
