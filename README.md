@@ -29,6 +29,16 @@ Software Engineer (Fullstack)
   <img src="https://cdn.simpleicons.org/linux" height="40" />
 </p>
 
+### Testing
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="42" />
+</p>
+
+Unit Testing / Integration Testing / API Testing  
+Testable Architecture / Coverage Awareness / Transaction Rollback Strategy
+
 ---
 
 ## Project
