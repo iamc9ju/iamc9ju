@@ -43,15 +43,14 @@ Testable Architecture / Coverage Awareness / Transaction Rollback Strategy
 
 ## Project
 
-**Banking Core System (Go)**  (กำลังพัฒนา)
+**Banking Core System (Go + NestJs)**  (กำลังพัฒนา)
 ออกแบบระบบบัญชีแบบ Double-entry พร้อม Ledger และ Transaction Processing ที่คำนึงถึง ACID และความถูกต้องของข้อมูลเป็นหลัก
 
 **NutriGo Platform**  (กำลังพัฒนา ทำคนเดียว)
-แพลตฟอร์ม Fullstack สำหรับการให้คำปรึกษาด้านโภชนาการ พร้อมระบบสิทธิ์การเข้าถึงข้อมูลและโครงสร้างฐานข้อมูลระดับ Production
+แพลตฟอร์มออนไลน์ สำหรับการให้คำปรึกษาด้านโภชนาการ พร้อมระบบสิทธิ์การเข้าถึงข้อมูลและโครงสร้างฐานข้อมูลระดับ ระบบความปลอดภัยของข้อมูล 
 
 **Secure Authorization Module**  
 ระบบ RBAC และการป้องกันปัญหา Broken Object Level Authorization ในระดับ API
-
 ---
 
 ## ติดต่อ
