@@ -29,7 +29,7 @@ Software Engineer (Fullstack)
   <img src="https://cdn.simpleicons.org/go" height="40" />
   <img src="https://cdn.simpleicons.org/nestjs" height="40" />
   <img src="https://cdn.simpleicons.org/spring" height="40" />
-  <img src="https://cdn.simpleicons.org/java" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" />
 </p>
 
 ### Frontend
