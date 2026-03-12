@@ -34,8 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="42" />
 </p>
 
-Unit Testing / Integration Testing / API Testing  
-Testable Architecture / Coverage Awareness / Transaction Rollback Strategy
+Unit Testing / Integration Testing 
 ## ติดต่อ
 
 Email:  ittipol.b@ku.th
